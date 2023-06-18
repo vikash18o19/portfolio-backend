@@ -6,4 +6,6 @@
 
 - To host some dynamic content
 
+- The messaging function uses nodemailer package.
+
 ### To be deployed
