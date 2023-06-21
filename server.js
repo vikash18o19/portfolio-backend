@@ -21,6 +21,8 @@ app.get("/", (req, res) => {
 app.use(allowCrossDomain);
 app.use("/api", contactRouter);
 
+// TODO : Add a route for payment gateway.
+
 app.listen(port, () => {
   console.log(`Listening on port: ${port}`);
 });
