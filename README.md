@@ -8,4 +8,16 @@
 
 - The messaging function uses nodemailer package.
 
+## Sample Requests
+
+- POST /api/contact
+
+```json
+{
+  "name": "John Doe",
+  "email": "example@example.com",
+  "message": "Hello World"
+}
+```
+
 ### To be deployed
