@@ -8,7 +8,7 @@
 
 - The messaging function uses nodemailer package.
 
-## Sample Requests
+## Sample Request
 
 - POST /api/contact
 
